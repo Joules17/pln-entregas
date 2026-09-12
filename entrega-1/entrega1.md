@@ -6,4 +6,4 @@ En este proyecto entrenamos y comparamos distintas técnicas de PLN —desde mod
 
 Todo el desarrollo, los resultados y las conclusiones están en el notebook:
 
-**[Ver el notebook en Google Colab](https://colab.research.google.com/drive/1B-rTenGMmzs1_lmhxrNZbwTDg1OnN-Dt#scrollTo=i94vgqsnBQ8q)**
+**[Ver el notebook en Google Colab](https://colab.research.google.com/drive/1B-rTenGMmzs1_lmhxrNZbwTDg1OnN-Dt?usp=sharing)**
